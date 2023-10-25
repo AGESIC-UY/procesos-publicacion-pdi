@@ -78,7 +78,7 @@ La fuente de datos de nuestro ejemplo se encuentra en un formato CSV y contiene 
 ![](/PDI/print_3.png)
 
 
-En este paso vamos a generar un archivo XLSX que va a ser el input para el siguiente paso. Este archivo utiliza como template el archivo **planilla_base.xlsx**. El archivo planilla base tiene 2 pestañas, la primera corresponde al los datos y la segunda pestaña corresponde a los metadatos.  En la pestaña datos se encuentran los cabezales con los nombres de los campos, por lo tanto es importante que el orden de los campos tanto en el input como en el output coincida con el ordén en la planilla base.
+En este paso vamos a generar un archivo XLSX que va a ser el input para el siguiente paso. Este archivo utiliza como template el archivo **planilla_base.xlsx**. El archivo planilla base tiene 2 pestañas, la primera corresponde al los datos y la segunda pestaña corresponde a los metadatos.  En la pestaña datos se encuentran los cabezales con los nombres de los campos, por lo tanto es importante que el orden de los campos tanto en el input como en el output coincida con el ordén en la planilla base. La pestaña metadatos contiene la descripción de los atributos, el tipo de dato e información adicional que se quiera añadir con respecto al atributo. Desde la pestaña metadatos se va a generar el archivo Json a publicar.
 
 
 **Input**
@@ -94,6 +94,7 @@ En este paso vamos a generar un archivo XLSX que va a ser el input para el sigui
 
 ![](/PDI/print_5_2.png)
 
+![](/PDI/print_13.png)
 
 
 Una vez finalizado este paso deberíamos tener un archvio en la carpeta **\Archivos_a_publicar** un archivo xlsx (ejemplo.xlsx) con 2 pestañas, una con los datos y otra con los metadatos.
