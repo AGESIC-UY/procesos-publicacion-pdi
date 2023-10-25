@@ -2,15 +2,6 @@
     <img src="https://centrodeconocimiento.agesic.gub.uy/o/agesic-cci-theme-nuevo/images/logo_presidencia.png" alt="logo" width="200" height="auto" /></br>
     <img src="https://centrodeconocimiento.agesic.gub.uy/o/agesic-cci-theme-nuevo/images/logo-agesic.svg" alt="logo" width="200" height="auto" />
     <h1>Procesos publicación PDI</h1>
-    <h4>
-        <a href="">Ver Demo</a>
-            <span> · </span>
-        <a href="">Documentación</a>
-            <span> · </span>
-        <a href="">Reporte de bugs</a>
-            <span> · </span>
-        <a href="">Solicitar función</a>
-    </h4>
 </div>
 
 <!-- Table of Contents -->
