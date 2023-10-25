@@ -130,7 +130,7 @@ El archivo **XML** generado para nuestro caso de ejemplo es el que podemos obser
 
 ### Publicación en el catálogo.
 
-Hay 1 job para cada formato archivo. 
+Hay 1 job para cada formato de archivo. 
 
 ![](/PDI/print_10.png)
 
