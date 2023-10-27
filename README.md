@@ -154,7 +154,7 @@ En el primer paso se setean las variables que se detallan en la siguiente tabla.
 |      **recursoDescripcion**             | Descripción del recurso en el catalogo de datos abiertos |
 |      **rutaArchivo**             | Ruta donde se encuentra almacenado el archivo de metadatos a publicar. Esta ruta se utiliza en caso de estar en un entrono linux.|
 |      **apiKey**             | API key de CKAN |
-|      **accion**             | Acción a realizar, upload |
+|      **accion**             | Acción a realizar, ej. update |
 |      **cobertura_temporal**             | Periodo de tiempo al que refieren los datos |
 
 
